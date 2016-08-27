@@ -46,5 +46,7 @@ group :development, :test do
   gem 'pry-rails'
   
   gem 'jquery-turbolinks'
+  
+  gem 'rails_12factor', group: :production
 end
 
